@@ -4,4 +4,4 @@ import NavigationSwitch from './src/navigation/index';
 
 export default NavigationSwitch;
 
-AppRegistry.registerComponent('appName', () => App);
+AppRegistry.registerComponent('siargaogo-moto', () => App);
