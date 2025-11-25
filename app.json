@@ -1,5 +1,10 @@
 {
    "expo": {
+          "name": "SiargaoGo Moto",
+    "slug": "siargaogo-moto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
       "sdkVersion": "45.0.0",
       "platforms": ["android", "ios"],
       "plugins": [
